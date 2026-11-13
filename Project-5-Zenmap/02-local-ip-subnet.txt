@@ -1,0 +1,11 @@
+===== NETWORK INTERFACE INFORMATION =====
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             10.0.0.2/24 fe80::9da5:7c2b:c42e:91f1/64 
+
+===== IP ROUTING INFORMATION =====
+default via 10.0.0.1 dev eth0 proto static metric 100 
+10.0.0.0/24 dev eth0 proto kernel scope link src 10.0.0.2 metric 100 
+
+===== SUBNET INFORMATION =====
+default via 10.0.0.1 proto static metric 100 
+10.0.0.0/24 proto kernel scope link src 10.0.0.2 metric 100 
