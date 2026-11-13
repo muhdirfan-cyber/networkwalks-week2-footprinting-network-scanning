@@ -1,4 +1,4 @@
-# `NEXUS // CYBER OPERATIONS`
+# `CYBER OPERATIONS`
 
 <p align="center">
   <img src="https://img.shields.io/badge/NEXUS-CYBER_OPERATIONS-00ff9c?style=for-the-badge&labelColor=080d12" />
